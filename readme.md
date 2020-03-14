@@ -6,8 +6,8 @@ None of this matters.
 
 Does it?
 
-If a developer makes a pull request, but doesn't comment his code
-...did he really write it?
+If a developer makes a pull request, but doesn't comment her code
+...did she really write it?
 
 I wonder.
 
